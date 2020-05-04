@@ -1,3 +1,10 @@
+Built this for learning reactjs, using Airtable DB + API and Netlify functions for serverless backend and hiding Airtable API keys. For a simpler way, without hiding API keys check [react-airtable-crud-test](https://github.com/aavf/react-airtable-crud-test)
+
+If you want to build something using this stack check [Up and Running with Netlify, Airtable, and React](https://medium.com/swlh/up-and-running-with-netlify-airtable-and-react-428959473cf0)
+
+Just started learning react, this is one of my first react apps so could have mistakes/bad practices.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
